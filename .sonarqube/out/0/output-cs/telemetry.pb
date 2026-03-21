@@ -1,0 +1,1 @@
+qR\D:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Shared\NewsWebsite.Shared.csproj¢net5.0òCSharp9

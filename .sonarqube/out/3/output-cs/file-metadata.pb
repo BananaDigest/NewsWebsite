@@ -1,0 +1,13 @@
+Ö
+zD:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Business\obj\Debug\net5.0\NewsWebsite.Business.AssemblyInfo.csutf-8ê
+ÑD:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Business\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.csutf-8i
+`D:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Business\Concrete\NewsPostManager.csutf-8i
+`D:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Business\Concrete\LanguageManager.csutf-8h
+_D:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Business\Concrete\CommentManager.csutf-8i
+`D:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Business\Concrete\CategoryManager.csutf-8t
+kD:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Business\AutoMapper\Profiles\CategoryProfile.csutf-8t
+kD:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Business\AutoMapper\Profiles\NewsPostProfile.csutf-8j
+aD:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Business\Abstract\INewsPostService.csutf-8j
+aD:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Business\Abstract\ILanguageService.csutf-8i
+`D:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Business\Abstract\ICommentService.csutf-8j
+aD:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Business\Abstract\ICategoryService.csutf-8

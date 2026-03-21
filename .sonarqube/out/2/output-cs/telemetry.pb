@@ -1,0 +1,1 @@
+yRdD:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.DataAccess\NewsWebsite.DataAccess.csproj¢net5.0òCSharp9
