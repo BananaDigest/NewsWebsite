@@ -1,0 +1,12 @@
+Å
+vD:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Shared\obj\Debug\net5.0\NewsWebsite.Shared.AssemblyInfo.csutf-8é
+ÇD:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Shared\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.csutf-8p
+gD:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Shared\Utilities\Results\Concrete\Result.csutf-8t
+kD:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Shared\Utilities\Results\Concrete\DataResult.csutf-8z
+qD:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Shared\Utilities\Results\ComplexTypes\ResultStatus.csutf-8q
+hD:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Shared\Utilities\Results\Abstract\IResult.csutf-8u
+lD:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Shared\Utilities\Results\Abstract\IDataResult.csutf-8f
+]D:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Shared\Entity\Abstract\IEntity.csutf-8i
+`D:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Shared\Entity\Abstract\EntityBase.csutf-8i
+`D:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Shared\Entity\Abstract\DtoGetBase.csutf-8n
+eD:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Shared\Data\Abstract\IEntityRepository.csutf-8

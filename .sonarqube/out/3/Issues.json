@@ -1,0 +1,57 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "4.14.0.0",
+        "fileVersion": "4.14.0-3.25359.3 (6dbcfd2f)",
+        "semanticVersion": "4.14.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "S3981",
+          "level": "warning",
+          "message": "The 'Count' of 'ICollection' always evaluates as 'True' regardless the size.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Coding/NewsWebsite-master/NewsWebsite-master/NewsWebsite.Business/Concrete/NewsPostManager.cs",
+                "region": {
+                  "startLine": 174,
+                  "startColumn": 38,
+                  "endLine": 174,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "S3981": {
+          "id": "S3981",
+          "shortDescription": "Collection sizes and array length comparisons should make sense",
+          "fullDescription": "The size of a collection and the length of an array are always greater than or equal to zero. Testing it doesn’t make sense, since the result is always true.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3981",
+          "properties": {
+            "category": "Major Bug",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

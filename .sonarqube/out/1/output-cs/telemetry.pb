@@ -1,0 +1,1 @@
+uR`D:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Entities\NewsWebsite.Entities.csproj¢net5.0òCSharp9

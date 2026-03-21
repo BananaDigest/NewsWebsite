@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>NewsWebsite.Business</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Product</ProjectType>
+  <ProjectGuid>40f97fcd-f3af-449a-b81f-e427e40a29d6</ProjectGuid>
+  <FullPath>D:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.Business\NewsWebsite.Business.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResultFiles>
+    <AnalysisResultFile Id="FilesToAnalyze" Location="D:\Coding\NewsWebsite-master\NewsWebsite-master\.sonarqube\conf\3\FilesToAnalyze.txt" />
+  </AnalysisResultFiles>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">D:\Coding\NewsWebsite-master\NewsWebsite-master\.sonarqube\out\3\Issues.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPaths">D:\Coding\NewsWebsite-master\NewsWebsite-master\.sonarqube\out\3</Property>
+    <Property Name="sonar.cs.scanner.telemetry">D:\Coding\NewsWebsite-master\NewsWebsite-master\.sonarqube\out\3\Telemetry.json</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+  <TargetFramework>net5.0</TargetFramework>
+</ProjectInfo>

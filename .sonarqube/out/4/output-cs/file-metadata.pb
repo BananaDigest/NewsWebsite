@@ -1,0 +1,9 @@
+ï
+âD:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.WebAPI\obj\Debug\net5.0\NewsWebsite.WebAPI.MvcApplicationPartsAssemblyInfo.csutf-8Å
+vD:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.WebAPI\obj\Debug\net5.0\NewsWebsite.WebAPI.AssemblyInfo.csutf-8é
+ÇD:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.WebAPI\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.csutf-8V
+MD:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.WebAPI\Startup.csutf-8V
+MD:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.WebAPI\Program.csutf-8n
+eD:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.WebAPI\Controllers\NewsPostsController.csutf-8n
+eD:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.WebAPI\Controllers\LanguagesController.csutf-8m
+dD:\Coding\NewsWebsite-master\NewsWebsite-master\NewsWebsite.WebAPI\Controllers\CommentsController.csutf-8
