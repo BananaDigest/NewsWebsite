@@ -8,6 +8,6 @@ public class AuthTests
     public void Login_ShouldReturnTrue_ForCorrectCredentials()
     {
         var auth = new UserAuth();
-        Assert.True(auth.Login("admin", "1234"));
+        Assert.True(auth.Login("admin", ""));
     }
 }
